@@ -1,3 +1,4 @@
+import React from 'react';
 import { testEnv } from '../lib/actions';
 
 export default async function TestEnvPage() {
